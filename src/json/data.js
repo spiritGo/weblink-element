@@ -223,6 +223,45 @@ const data = [{
 }, {
 	title: "googleMap",
 	url: "https://www.runoob.com/googleapi/googleapi-tutorial.html"
+}, {
+	title: "族蚂建站",
+	url: "https://jz.zuma.com/"
+}, {
+	title: "W3Cschool资源",
+	url: "https://www.w3cschool.cn/"
+}, {
+	title: "PHP中文网",
+	url: "https://www.php.cn/"
+}, {
+	title: "起飞页",
+	url: "https://www.qifeiye.com/"
+}, {
+	title: "动态图片基地",
+	url: "https://www.asqql.com/"
+}, {
+	title: "字体识别",
+	url: "http://www.qiuziti.com/"
+}, {
+	title: "vue-manage-system",
+	url: "https://github.com/lin-xin/vue-manage-system"
+}, {
+	title: "Vue管理后台框架选择推荐",
+	url: "https://blog.csdn.net/T146lLa128XX0x/article/details/97846211"
+}, {
+	title: "amcharts",
+	url: "https://www.amcharts.com/"
+}, {
+	title: "用vue+springboot下载和上传excel文件",
+	url: "https://www.jianshu.com/p/154ba49d9b7a"
+}, {
+	title: "wfonts",
+	url: "https://www.wfonts.com/"
+}, {
+	title: "highdmin",
+	url: "https://github.com/trungx/highdmin_v12"
+}, {
+	title: "axios封装",
+	url: "https://www.jianshu.com/p/86122178002a"
 }]
 
 export default data;
