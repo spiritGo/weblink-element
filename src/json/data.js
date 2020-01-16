@@ -262,6 +262,21 @@ const data = [{
 }, {
 	title: "axios封装",
 	url: "https://www.jianshu.com/p/86122178002a"
+}, {
+	title: "web",
+	url: "https://developers.google.com/web"
+}, {
+	title: "vue-hljs",
+	url: "https://www.npmjs.com/package/vue-hljs"
+}, {
+	title: "css",
+	url: "https://devdocs.io/css/"
+}, {
+	title: "jsdoc",
+	url: "http://shouce.jb51.net/jsdoc/tags-param.html"
+}, {
+	title: "flutterchina",
+	url: "https://flutterchina.club/setup-windows/"
 }]
 
 export default data;
